@@ -1,7 +1,7 @@
 <h1 align=center>Hey, I'm BINAL 👦👋</h1>
 
-<div align=center>
-  <h6>My Skills ⚡⚡</h6>
+<div align=left>
+  <p>My Skills ⚡⚡</p>
   <img style="width: 30px" src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg>
   <img style="width: 30px" src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg>
   <img style="width: 30px" src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg>
@@ -24,4 +24,13 @@
   <img style="width: 30px" src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg />
   <img style="width: 30px" src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/denojs/denojs-original-wordmark.svg>
   <img style="width: 30px" src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg>
+
+  
+  <div align=left>
+    <p>My Programming Accounts 🧭🧭</p>
+    <a href=https://codepen.io/BinalNethmika><img style="height: 25px" src=https://github.com/BinalNethmika/BinalNethmika/blob/main/codepen-wordmark-display-inside-white%4010x.png></a>
+    <a href=https://www.hackerrank.com/profile/binalnethmika><img style="height: 30px" src=https://github.com/BinalNethmika/BinalNethmika/blob/main/hacker_rank_logo.png></a>
+    <a href=https://github.com/BinalNethmika/><img style="height: 30px" src=https://github.com/BinalNethmika/BinalNethmika/blob/main/GitHub_Logo_White.png></a>
+    <a href=https://cssbattle.dev/player/B0XSRC5TwvRKIk34ZYIyGvH0rvd2><img style="height: 30px" src=https://github.com/BinalNethmika/BinalNethmika/blob/main/css_battle.png></a>
+  </div>
 </div>
