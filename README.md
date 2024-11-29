@@ -1,6 +1,6 @@
-<h1 align="center">Hey, I'm BINAL 👦👋</h1>
+<h1 align=center>Hey, I'm BINAL 👦👋</h1>
 
-<div>
+<div align=center>
   <img style="width: 30px" src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg>
   <img style="width: 30px" src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg>
   <img style="width: 30px" src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg>
