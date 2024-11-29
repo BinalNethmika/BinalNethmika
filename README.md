@@ -23,8 +23,4 @@
   <img style="width: 30px" src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg />
   <img style="width: 30px" src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/denojs/denojs-original-wordmark.svg>
   <img style="width: 30px" src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg>
-
-  <h6>Social Accounts 🔗🔗</h6>
-  <a href="https://www.github.com/BinalNethmika"><img style="height: 40px" src=https://github.com/BinalNethmika/BinalNethmika/blob/main/GitHub_Logo_White.png></a>
-  <a href="https://www.hackerrank.com/profile/binalnethmika"><img style="width: 40px" src=https://github.com/BinalNethmika/BinalNethmika/blob/main/hacker_rank_logo.png></a>
 </div>
