@@ -14,6 +14,7 @@
   <img style="width: 30px" src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg>
   <img style="width: 30px" src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg>
   <img style="width: 30px" src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg>
+  <img style="width: 30px" src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg>
   <img style="width: 30px" src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg>
   <img style="width: 30px" src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg />
   <img style="width: 30px" src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg>
