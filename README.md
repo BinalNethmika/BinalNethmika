@@ -3,7 +3,7 @@
 <div align=center>
   <p>Some of My Skills ⚡⚡</p>
   <a href="https://github.com/BinalNethmika">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,svelte,astro,blender,bootstrap,electron,express,figma,git,jquery,less,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,svelte,astro,blender,bootstrap,electron,express,figma,git,jquery,less,nodejs,npm&perline=8" />
   </a>
   
   <div align=center>
