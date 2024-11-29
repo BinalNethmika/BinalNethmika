@@ -32,5 +32,6 @@
     <a href=https://www.hackerrank.com/profile/binalnethmika><img style="height: 30px" src=https://github.com/BinalNethmika/BinalNethmika/blob/main/hacker_rank_logo.png></a>
     <a href=https://github.com/BinalNethmika/><img style="height: 30px" src=https://github.com/BinalNethmika/BinalNethmika/blob/main/GitHub_Logo_White.png></a>
     <a href=https://cssbattle.dev/player/B0XSRC5TwvRKIk34ZYIyGvH0rvd2><img style="height: 30px" src=https://github.com/BinalNethmika/BinalNethmika/blob/main/css_battle.png></a>
+    <a href=https://www.patreon.com/c/Binal_N><img style="height: 30px" src=https://github.com/BinalNethmika/BinalNethmika/blob/main/PATREON_SYMBOL_1_WHITE_RGB.png></a>
   </div>
 </div>
